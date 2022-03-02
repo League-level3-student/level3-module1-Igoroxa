@@ -1,0 +1,992 @@
+San Dimas, Mostly Cloudy, 65.57
+Jamestown, Overcast, 27.62
+Lakeview, Clear, 60.81
+Riverdale, Clear, 55.25
+Le Grand, Clear, 51.54
+Fremont, Partly Cloudy, 33.16
+Shafter, Clear, 54.93
+Albany, Partly Cloudy, 55.89
+Del Rey Oaks, Clear, 60.69
+Calexico, Overcast, 65.21
+Georgetown, Overcast, 35.54
+Richmond, Overcast, 36.07
+Winchester, Overcast, 35.46
+Farmington, Overcast, 41.73
+Alamo, Partly Cloudy, 67.64
+Orange, Clear, 56.76
+Danville, Mostly Cloudy, 39.7
+Auburn, Overcast, 26.67
+Fremont, Mostly Cloudy, 35.21
+Atascadero, Clear, 52.78
+Chico, Clear, 61.58
+Clovis, Clear, 52.46
+Corcoran, Clear, 48.67
+Dinuba, Clear, 51.45
+Isla Vista, Partly Cloudy, 61.99
+Lynwood, Overcast, 63.69
+Nipomo, Clear, 64.53
+Oakdale, Clear, 52.29
+Palm Desert, Overcast, 68.41
+Patterson, Clear, 58.24
+Reedley, Clear, 51.98
+San Jacinto, Overcast, 66.46
+Seaside, Clear, 59.62
+Turlock, Clear, 54.66
+Victorville, Overcast, 55.21
+Visalia, Partly Cloudy, 48.81
+Fort Bragg, Light Rain, 45.8
+North Lakeport, Overcast, 35.63
+Belmont, Partly Cloudy, 30.55
+Chester, Mostly Cloudy, 30.48
+Corning, Partly Cloudy, 47.72
+Cameron Park, Clear, 47.31
+Fairfield, Partly Cloudy, 39.77
+Dublin, Partly Cloudy, 55.75
+Quincy, Mostly Cloudy, 38.57
+Pittsburg, Clear, 48.85
+Ashland, Overcast, 37.17
+Danville, Overcast, 35.73
+Easton, Mostly Cloudy, 38.39
+Greenville, Clear, 51.4
+Greenville, Overcast, 45.75
+Lancaster, Mostly Cloudy, 34.54
+Columbia, Partly Cloudy, 40.86
+Beaumont, Clear, 59.01
+Danville, Overcast, 38.18
+Auburn, Partly Cloudy, 49.71
+Jamestown, Clear, 44.74
+Elmira, Overcast, 31.83
+Ashland, Overcast, 32.31
+Arroyo Grande, Clear, 68.18
+Atwater, Clear, 52.18
+Avenal, Clear, 53.38
+Barstow, Overcast, 57.61
+Blythe, Mostly Cloudy, 64.63
+Brawley, Overcast, 63.89
+Cathedral City, Overcast, 69.37
+Ceres, Clear, 55.95
+Chowchilla, Clear, 50.8
+Clearlake, Clear, 63.42
+Coachella, Overcast, 66.59
+Clovis, Clear, 54.73
+Delano, Partly Cloudy, 48.16
+El Centro, Mostly Cloudy, 65.36
+Greenfield, Clear, 57.67
+Hanford, Clear, 49.46
+Indio, Overcast, 67.36
+La Quinta, Overcast, 67.6
+Lemoore, Clear, 50.5
+Los Banos, Clear, 53.51
+Los Gatos, Clear, 59.23
+Madera, Clear, 52.71
+Oildale, Partly Cloudy, 51.12
+Paradise, Clear, 64.03
+Porterville, Partly Cloudy, 50.57
+Ridgecrest, Overcast, 59.59
+San Gabriel, Mostly Cloudy, 66.65
+Sanger, Clear, 52.73
+Santa Maria, Clear, 64.26
+Selma, Clear, 50.84
+Shafter, Partly Cloudy, 49.18
+Soledad, Clear, 56.73
+South Lake Tahoe, Clear, 36.61
+South Yuba City, Clear, 63.24
+Tulare, Partly Cloudy, 47.71
+Twentynine Palms, Overcast, 58.18
+Ukiah, Clear, 65.12
+Carlsbad, Clear, 56.54
+Clovis, Clear, 59.84
+Paradise, Mostly Cloudy, 61.46
+Del Rio, Clear, 67.69
+Wasco, Partly Cloudy, 49.14
+Susanville, Clear, 36.69
+Arcadia, Clear, 60.52
+Clayton, Clear, 56.96
+Antioch, Clear, 59.08
+Livingston, Clear, 50.79
+Lake of the Woods, Partly Cloudy, 47.39
+Adelanto, Mostly Cloudy, 54.25
+Lafayette, Clear, 51.6
+London, Clear, 44.12
+Fairview, Overcast, 30.95
+Lakeside, Clear, 31.51
+Westminster, Partly Cloudy, 30.86
+Lodi, Mostly Cloudy, 34.48
+Chester, Overcast, 32.76
+Lawndale, Partly Cloudy, 32.04
+Easton, Overcast, 32.63
+Ross, Partly Cloudy, 38.6
+Whittier, Overcast, 36.61
+Vandenberg Village, Clear, 72.98
+Sonoma, Clear, 58.27
+Pine Mountain Club, Partly Cloudy, 48.13
+Valle Vista, Mostly Cloudy, 60.57
+Bootjack, Clear, 58.49
+Crescent City North, Clear, 52.8
+Greenville, Mostly Cloudy, 34.82
+Newark, Partly Cloudy, 36.05
+Mineral, Overcast, 47.19
+Santa Clara, Mostly Cloudy, 44.25
+Rodeo, Partly Cloudy, 54.84
+Bear Valley, Clear, 35.94
+Westmont, Overcast, 29.7
+San Marcos, Clear, 65.54
+Montebello, Partly Cloudy, 37.8
+Glendale, Clear, 52.32
+Lakeview, Clear, 58.37
+Dublin, Clear, 62.83
+Lompoc, Clear, 57.38
+Goshen, Clear, 48.62
+Lancaster, Clear, 58.04
+San Juan Capistrano, Overcast, 61.37
+Richmond, Partly Cloudy, 36.99
+Agoura Hills, Mostly Cloudy, 57.45
+Independence, Overcast, 33.61
+Greenville, Mostly Cloudy, 41.39
+Vernon, Clear, 46.65
+Rolling Hills, Partly Cloudy, 61.81
+San Leandro, Clear, 63.36
+Irvine, Mostly Cloudy, 33.6
+Independence, Clear, 36.43
+Arcadia, Clear, 55.11
+Goshen, Clear, 47.4
+San Luis Obispo, Clear, 62.74
+Irvine, Overcast, 29.13
+Wilton, Mostly Cloudy, 38.27
+Bonita, Clear, 50.6
+French Camp, Clear, 58.69
+Weaverville, Clear, 49.08
+Oakley, Mostly Cloudy, 59.07
+Ontario, Partly Cloudy, 33.75
+Ashland, Mostly Cloudy, 44.09
+San Joaquin, Clear, 52.94
+Industry, Overcast, 32.42
+Woodland, Clear, 49.84
+Albany, Partly Cloudy, 32.93
+Willow Creek, Clear, 35.48
+Mentone, Clear, 34.13
+Tipton, Mostly Cloudy, 36.25
+Jackson, Mostly Cloudy, 40.85
+Farmersville, Clear, 57.16
+Buena Park, Partly Cloudy, 36.52
+Concord, Overcast, 33.62
+Portola, Clear, 39.92
+Avery, Partly Cloudy, 35.2
+Rosemont, Clear, 54.87
+Mendota, Partly Cloudy, 37.51
+Cottonwood, Clear, 62.5
+Greenville, Clear, 31.62
+Buena Vista, Clear, 37.14
+Sonora, Clear, 66.18
+Del Mar, Clear, 67.38
+Lindsay, Clear, 58.04
+Huron, Clear, 45.39
+Malibu, Overcast, 53.43
+Lakewood, Overcast, 33.42
+Georgetown, Overcast, 35.1
+Mountain View, Clear, 55.67
+Farmington, Clear, 39.03
+Clayton, Clear, 57.6
+Linden, Partly Cloudy, 38.6
+Pomona, Partly Cloudy, 38.61
+Oak Park, Overcast, 39.25
+Selma, Clear, 54.56
+Dixon, Clear, 51.97
+Stanton, Overcast, 34.78
+Mendota, Overcast, 33.54
+Jackson, Mostly Cloudy, 34.36
+Marysville, Overcast, 35.16
+Waterford, Mostly Cloudy, 33.72
+Caribou, Overcast, 28.04
+Oakland, Clear, 49.54
+Campbell, Overcast, 40.18
+Orcutt, Clear, 64.21
+Millbrae, Clear, 63.38
+Santee, Clear, 62.98
+Red Bluff, Clear, 64.91
+Palmdale, Overcast, 53.11
+Coronado, Mostly Cloudy, 60.85
+Merced, Clear, 51.21
+Seeley, Overcast, 65.64
+Pacheco, Clear, 65.88
+Chino, Overcast, 67.21
+Pleasant Hill, Clear, 47.89
+Cottonwood, Overcast, 28.31
+Prattville, Clear, 50.12
+Selma, Clear, 49.89
+Middletown, Partly Cloudy, 38.14
+Newark, Partly Cloudy, 37.48
+Country Club, Partly Cloudy, 75.95
+Cutler, Partly Cloudy, 77.04
+Lakeside, Clear, 61.95
+Palm Springs, Mostly Cloudy, 74.21
+Pine Hills, Overcast, 58.3
+Martinez, Partly Cloudy, 56.36
+Riverdale, Mostly Cloudy, 46.14
+Union City, Mostly Cloudy, 45.22
+Bloomington, Partly Cloudy, 37.28
+Greenfield, Partly Cloudy, 33.84
+Richmond, Mostly Cloudy, 32.27
+Independence, Mostly Cloudy, 34.39
+Lafayette, Clear, 57.76
+Arnold, Clear, 38.33
+Columbia, Partly Cloudy, 38.36
+Edgewood, Partly Cloudy, 38.75
+Ferndale, Partly Cloudy, 39.36
+Pasadena, Partly Cloudy, 39.13
+Rosedale, Partly Cloudy, 39.33
+South Gate, Partly Cloudy, 39.4
+Westminster, Partly Cloudy, 36.14
+Arnold, Mostly Cloudy, 41.92
+Clayton, Mostly Cloudy, 41.91
+Columbia, Partly Cloudy, 39.6
+Concord, Mostly Cloudy, 41.56
+Independence, Clear, 45.62
+Kirkwood, Mostly Cloudy, 41.02
+Jackson, Clear, 51.74
+Clayton, Overcast, 40.15
+Concord, Overcast, 46.6
+Durham, Overcast, 36.87
+Jackson, Mostly Cloudy, 37.5
+Millville, Mostly Cloudy, 38.33
+Fairfield, Mostly Cloudy, 35.42
+Middletown, Overcast, 34.72
+Riverside, Mostly Cloudy, 34.35
+Chester, Partly Cloudy, 38.57
+Anderson, Mostly Cloudy, 54.21
+Columbia, Mostly Cloudy, 53.63
+Greenville, Overcast, 51.61
+Brentwood, Mostly Cloudy, 39.59
+Jackson, Overcast, 42.69
+Canyon Lake, Clear, 65.1
+Cypress, Clear, 61.65
+Deer Park, Clear, 58.91
+Fresno, Clear, 62.09
+Georgetown, Clear, 63.55
+Greenville, Clear, 57.3
+La Porte, Clear, 60.44
+Pasadena, Clear, 61.19
+Chester, Overcast, 35.52
+Fairfax, Partly Cloudy, 38.6
+Montclair, Partly Cloudy, 39.6
+Richmond, Overcast, 36.34
+Winchester, Mostly Cloudy, 36.12
+Fairfield, Clear, 39.03
+Farmington, Clear, 36.96
+Middletown, Clear, 37.96
+Norwalk, Clear, 38.76
+Stratford, Clear, 39.42
+Bloomington, Partly Cloudy, 39.63
+Bradley, Mostly Cloudy, 38.18
+Burbank, Mostly Cloudy, 37.74
+Dixon, Partly Cloudy, 37.01
+Lake Forest, Mostly Cloudy, 37.02
+Maywood, Mostly Cloudy, 37.83
+Oak Park, Mostly Cloudy, 37.74
+Villa Park, Mostly Cloudy, 36.62
+Westmont, Mostly Cloudy, 38.09
+Anderson, Partly Cloudy, 33.2
+Goshen, Partly Cloudy, 34.4
+Highland, Mostly Cloudy, 37.41
+Lafayette, Partly Cloudy, 37.05
+Acton, Partly Cloudy, 33.06
+Ashland, Partly Cloudy, 34.95
+Auburn, Partly Cloudy, 34.22
+Belmont, Partly Cloudy, 34.48
+Concord, Partly Cloudy, 32.29
+Easton, Mostly Cloudy, 34.66
+Greenfield, Partly Cloudy, 35.5
+Quincy, Partly Cloudy, 34.87
+Winchester, Partly Cloudy, 34.49
+Auburn, Partly Cloudy, 32.8
+Lewiston, Partly Cloudy, 32.57
+Ferndale, Partly Cloudy, 35.85
+Jackson, Partly Cloudy, 33.73
+Oak Park, Partly Cloudy, 35.82
+Roseville, Mostly Cloudy, 35.42
+Waterford, Partly Cloudy, 33.6
+Apple Valley, Mostly Cloudy, 33.55
+Bloomington, Overcast, 32.95
+Farmington, Mostly Cloudy, 33.39
+Oakdale, Overcast, 33.04
+Plymouth, Overcast, 31.88
+Roseville, Overcast, 32.99
+Fremont, Clear, 49.13
+Lincoln, Clear, 50.64
+Concord, Partly Cloudy, 30.97
+Keene, Partly Cloudy, 30.2
+Hawthorne, Partly Cloudy, 39.53
+Lakewood, Partly Cloudy, 38.64
+Livingston, Partly Cloudy, 38.53
+Lodi, Partly Cloudy, 39.48
+Montclair, Partly Cloudy, 38.57
+Newark, Partly Cloudy, 40.13
+Orange, Partly Cloudy, 39.14
+Union City, Mostly Cloudy, 39.57
+Albany, Mostly Cloudy, 33.23
+Brentwood, Partly Cloudy, 39.19
+Deer Park, Partly Cloudy, 39.32
+Long Beach, Partly Cloudy, 38.33
+Middletown, Partly Cloudy, 37.16
+Oceanside, Partly Cloudy, 38.82
+Spring Valley, Partly Cloudy, 37.18
+Dublin, Overcast, 32.42
+Lakewood, Overcast, 34.45
+Marysville, Overcast, 32.3
+Newark, Overcast, 34.86
+Norwalk, Overcast, 33.26
+Easton, Partly Cloudy, 38.25
+Lancaster, Partly Cloudy, 37.6
+Middletown, Clear, 34.86
+Cudahy, Mostly Cloudy, 36.58
+Greenfield, Mostly Cloudy, 36.19
+Fillmore, Mostly Cloudy, 68.87
+Glendale, Clear, 69.37
+Green Valley, Clear, 67.06
+Maricopa, Clear, 64.83
+Mesa, Clear, 73.6
+Sun City, Clear, 69.88
+Alameda, Clear, 64.11
+Albany, Clear, 65.19
+Alhambra, Overcast, 65.18
+Aliso Viejo, Overcast, 59.52
+Altadena, Overcast, 64.67
+Alum Rock, Clear, 60.79
+American Canyon, Clear, 68.54
+Anaheim, Overcast, 62.38
+Antioch, Clear, 63.52
+Apple Valley, Overcast, 55.71
+Arcadia, Mostly Cloudy, 65.54
+Artesia, Mostly Cloudy, 62.79
+Arvin, Mostly Cloudy, 56.14
+Ashland, Clear, 64.16
+Avocado Heights, Overcast, 65.15
+Azusa, Overcast, 65.47
+Bakersfield, Partly Cloudy, 49.43
+Baldwin Park, Overcast, 65.79
+Banning, Overcast, 64.65
+Bay Point, Clear, 64.81
+Bay Point, Clear, 64.64
+Beaumont, Overcast, 65.06
+Bell, Overcast, 65.25
+Bell Gardens, Overcast, 65.18
+Bellflower, Overcast, 63.13
+Belmont, Clear, 63.3
+Benicia, Clear, 66.43
+Berkeley, Clear, 64.6
+Beverly Hills, Mostly Cloudy, 66.8
+Bloomington, Overcast, 68.36
+Bostonia, Mostly Cloudy, 63.5
+Brea, Overcast, 63.28
+Brentwood, Clear, 62.05
+Buena Park, Partly Cloudy, 61.64
+Burbank, Mostly Cloudy, 67.53
+Burlingame, Clear, 62.68
+Calabasas, Mostly Cloudy, 64.61
+Camarillo, Mostly Cloudy, 71.66
+Cameron Park, Clear, 66.06
+Campbell, Clear, 59.18
+Carlsbad, Mostly Cloudy, 59.41
+Carmichael, Clear, 61.99
+Carson, Overcast, 61.14
+Castro Valley, Clear, 63.66
+Cerritos, Mostly Cloudy, 62.63
+Chino Hills, Overcast, 63.55
+Chula Vista, Overcast, 59.39
+Citrus Heights, Clear, 62.79
+Claremont, Mostly Cloudy, 65.88
+Colton, Overcast, 68.21
+Compton, Overcast, 63.1
+Concord, Clear, 65.45
+Corona, Mostly Cloudy, 68.83
+Costa Mesa, Overcast, 58.98
+Covina, Overcast, 65.15
+Cudahy, Overcast, 64.85
+Culver City, Mostly Cloudy, 64.71
+Cupertino, Clear, 58.92
+Cypress, Mostly Cloudy, 60.91
+Daly City, Clear, 61.52
+Dana Point, Overcast, 60.63
+Danville, Clear, 62.56
+Davis, Clear, 63.03
+Desert Hot Springs, Overcast, 66.24
+Diamond Bar, Overcast, 65.74
+Dixon, Clear, 64.14
+Downey, Overcast, 64.63
+Duarte, Overcast, 65.39
+East Hemet, Overcast, 65.39
+East Los Angeles, Overcast, 66.35
+East Palo Alto, Clear, 63.45
+El Cajon, Mostly Cloudy, 61.02
+El Cerrito, Clear, 65.72
+El Dorado Hills, Clear, 65.48
+El Monte, Partly Cloudy, 63.82
+El Segundo, Mostly Cloudy, 61.8
+Elk Grove, Clear, 61.03
+Encinitas, Overcast, 59.01
+Escondido, Overcast, 66.12
+Fair Oaks, Clear, 62.47
+Fairfield, Clear, 67.88
+Fallbrook, Partly Cloudy, 63.22
+Florin, Clear, 59.47
+Folsom, Clear, 64.03
+Fontana, Overcast, 67.72
+Foothill Farms, Clear, 61.59
+Foster City, Clear, 62.23
+Fountain Valley, Overcast, 60.92
+Fremont, Clear, 60.89
+Fresno, Clear, 51.28
+Fullerton, Mostly Cloudy, 62.91
+Galt, Clear, 58.77
+Garden Grove, Overcast, 60.73
+Gardena, Overcast, 62.01
+Gilroy, Clear, 58.54
+Glen Avon, Overcast, 72.34
+Glendale, Overcast, 67.5
+Glendora, Overcast, 65.1
+Goleta, Clear, 65.13
+Granite Bay, Clear, 64.75
+Hacienda Heights, Overcast, 64.38
+Hawthorne, Mostly Cloudy, 60.99
+Hayward, Clear, 64.11
+Hemet, Overcast, 66.68
+Hercules, Clear, 66.71
+Hermosa Beach, Mostly Cloudy, 61.94
+Hesperia, Overcast, 54.03
+Highland, Overcast, 65.07
+Hollister, Clear, 56.05
+West Hollywood, Mostly Cloudy, 67.25
+Huntington Beach, Overcast, 60.42
+Huntington Park, Overcast, 65.1
+Imperial Beach, Mostly Cloudy, 59.59
+Inglewood, Mostly Cloudy, 62.73
+Irvine, Overcast, 60.16
+La Canada Flintridge, Overcast, 65.48
+La Habra, Overcast, 63.53
+La Mesa, Overcast, 62.24
+La Mirada, Mostly Cloudy, 63.75
+La Palma, Mostly Cloudy, 62.32
+La Presa, Overcast, 62.72
+La Puente, Overcast, 64.85
+La Verne, Partly Cloudy, 64.95
+Lafayette, Clear, 63.83
+Laguna, Clear, 61.43
+Laguna Beach, Overcast, 58.56
+Laguna Hills, Overcast, 61.71
+Laguna Niguel, Overcast, 60.01
+Laguna Woods, Overcast, 61.04
+Lake Elsinore, Overcast, 62.59
+Lake Forest, Overcast, 62.92
+Lakeside, Mostly Cloudy, 63.33
+Lakewood, Mostly Cloudy, 61.89
+Lamont, Mostly Cloudy, 52.91
+Lancaster, Overcast, 53.96
+Lathrop, Clear, 57.75
+Lawndale, Mostly Cloudy, 61.73
+Lemon Grove, Overcast, 62.09
+Lennox, Mostly Cloudy, 61.53
+Lincoln, Clear, 61.85
+Linda, Clear, 63.73
+Live Oak, Clear, 58.72
+Livermore, Clear, 61.33
+Lodi, Clear, 56.8
+Loma Linda, Overcast, 67.98
+Lomita, Mostly Cloudy, 60.1
+Long Beach, Mostly Cloudy, 60.21
+Los Altos, Clear, 60.05
+Los Angeles, Mostly Cloudy, 65.96
+Manhattan Beach, Mostly Cloudy, 62.17
+Manteca, Clear, 58.02
+Marina, Clear, 55.96
+Martinez, Clear, 66.58
+Maywood, Overcast, 65.71
+Menlo Park, Clear, 61.64
+Milpitas, Clear, 60.67
+Mira Loma, Overcast, 72.44
+Mission Viejo, Overcast, 62.62
+Modesto, Clear, 56.63
+Monrovia, Overcast, 65.15
+Montclair, Overcast, 66.56
+Montebello, Overcast, 66.18
+Monterey, Clear, 58.9
+Monterey Park, Overcast, 65.39
+Moorpark, Mostly Cloudy, 68.84
+Moraga, Clear, 62.17
+Moreno Valley, Overcast, 68.82
+Morgan Hill, Clear, 60.43
+Mountain View, Clear, 59.88
+Murrieta, Overcast, 64.03
+Napa, Clear, 68.59
+National City, Overcast, 60.16
+Newark, Clear, 62.01
+Newport Beach, Overcast, 59.39
+Norco, Mostly Cloudy, 70.63
+North Highlands, Clear, 61.44
+Norwalk, Overcast, 63.88
+Novato, Clear, 69.15
+Oakland, Clear, 64.74
+Oakley, Clear, 63.05
+Oceanside, Mostly Cloudy, 59.3
+Ontario, Overcast, 64.86
+Orange, Overcast, 61.26
+Orangevale, Clear, 63.26
+Orinda, Clear, 63.35
+Oroville, Clear, 67.79
+Oxnard, Partly Cloudy, 71.04
+Pacifica, Clear, 63.51
+Pacific Grove, Clear, 57.58
+Palm Springs, Mostly Cloudy, 67.58
+Palo Alto, Clear, 62.43
+Paramount, Overcast, 63.38
+Pasadena, Overcast, 66.06
+Perris, Overcast, 66.79
+Petaluma, Clear, 69.53
+Pico Rivera, Overcast, 65.93
+Pinole, Clear, 66.7
+Pittsburg, Clear, 64.7
+Placentia, Overcast, 62.78
+Pleasant Hill, Clear, 65.29
+Pleasanton, Clear, 61.86
+Pomona, Mostly Cloudy, 66.46
+Port Hueneme, Mostly Cloudy, 70.48
+Poway, Overcast, 65.23
+Prunedale, Clear, 58.67
+Ramona, Mostly Cloudy, 67.71
+Rancho Cordova, Clear, 62.38
+Rancho Cucamonga, Overcast, 67.67
+Rancho Mirage, Overcast, 70.74
+Rancho Palos Verdes, Mostly Cloudy, 60.18
+Rancho San Diego, Overcast, 64.77
+Rancho Santa Margarita, Overcast, 64.61
+Redlands, Overcast, 66.85
+Redondo Beach, Mostly Cloudy, 61.72
+Redwood City, Clear, 63.33
+Rialto, Overcast, 67.2
+Richmond, Clear, 65.82
+Rio Linda, Clear, 62.67
+Riverbank, Clear, 55.31
+Riverside, Mostly Cloudy, 71.11
+Rocklin, Clear, 63.29
+Rohnert Park, Clear, 69.6
+Rosamond, Overcast, 55.86
+Rosemead, Mostly Cloudy, 61.79
+Rosemont, Clear, 62.47
+Roseville, Clear, 63.26
+Rowland Heights, Overcast, 62.41
+Rubidoux, Mostly Cloudy, 71.85
+Sacramento, Clear, 63.09
+Salinas, Clear, 58.01
+San Bernardino, Overcast, 67.29
+San Bruno, Clear, 62.98
+San Carlos, Clear, 63.76
+San Clemente, Overcast, 60.48
+San Diego, Mostly Cloudy, 60.45
+San Fernando, Mostly Cloudy, 68.2
+San Francisco, Clear, 63.23
+San Jose, Clear, 61.94
+San Lorenzo, Clear, 65.34
+San Marcos, Overcast, 63.89
+San Pablo, Clear, 65.81
+San Rafael, Clear, 65.77
+San Ramon, Clear, 62.51
+Santa Ana, Overcast, 61.1
+Santa Barbara, Partly Cloudy, 63.89
+Santa Clara, Clear, 61.73
+Santa Clarita, Overcast, 65.71
+Santa Cruz, Clear, 58.57
+Santa Fe Springs, Overcast, 65.11
+Santa Monica, Mostly Cloudy, 63.81
+Santa Paula, Mostly Cloudy, 70.54
+Santa Rosa, Clear, 69.62
+Saratoga, Clear, 58.28
+Seal Beach, Overcast, 60.77
+Simi Valley, Mostly Cloudy, 67.66
+South El Monte, Mostly Cloudy, 64.88
+South Gate, Overcast, 64.67
+South Pasadena, Overcast, 65.88
+South San Francisco, Clear, 62.42
+South San Jose Hills, Overcast, 63.37
+South Whittier, Overcast, 64.98
+Spring Valley, Overcast, 63.19
+Stanton, Mostly Cloudy, 61.79
+Stockton, Clear, 57.62
+Sun City, Overcast, 63.75
+Sunnyvale, Clear, 59.53
+Temecula, Overcast, 65.11
+Temple City, Mostly Cloudy, 63.6
+Thousand Oaks, Mostly Cloudy, 66.15
+Torrance, Mostly Cloudy, 61.09
+Tracy, Clear, 59.71
+Truckee, Clear, 38.38
+Tustin, Overcast, 61.73
+Union City, Clear, 62.07
+Union City, Clear, 62.07
+Upland, Overcast, 66.75
+Vacaville, Clear, 66.84
+Valinda, Overcast, 64.87
+Vallejo, Clear, 67.21
+Vincent, Overcast, 51.88
+Vista, Mostly Cloudy, 62.13
+Walnut, Overcast, 64.55
+Walnut Creek, Clear, 64.25
+Watsonville, Clear, 58.07
+Walnut Park, Overcast, 64.91
+West Covina, Overcast, 65.27
+West Puente Valley, Overcast, 65.57
+West Sacramento, Clear, 63.26
+West Carson, Overcast, 60.98
+Westminster, Overcast, 61.46
+Westmont, Mostly Cloudy, 62.6
+Whittier, Overcast, 64.83
+Wildomar, Overcast, 63.48
+Willowbrook, Overcast, 63.4
+Windsor, Clear, 70.39
+Winter Gardens, Mostly Cloudy, 63.22
+Woodland, Clear, 63.71
+Yorba Linda, Overcast, 64.64
+Yuba City, Clear, 63.78
+Yucaipa, Possible Drizzle, 63.88
+Yucca Valley, Overcast, 57.35
+Lafayette, Clear, 57.5
+Lakewood, Clear, 55.28
+Westminster, Clear, 54.9
+Spring Valley, Mostly Cloudy, 61.64
+Winchester, Mostly Cloudy, 62.21
+Arcata, Clear, 51.37
+Eureka, Clear, 49.57
+McKinleyville, Clear, 54.1
+Redding, Clear, 63.95
+Windsor, Clear, 51.87
+Lewiston, Partly Cloudy, 34.98
+Albany, Mostly Cloudy, 42.81
+Ashland, Clear, 44.72
+Farmington, Clear, 37.21
+Highland, Clear, 38.22
+Springville, Clear, 39.68
+Taylorsville, Clear, 37.49
+Auburn, Foggy, 45.42
+Lakewood, Overcast, 45.59
+Marysville, Overcast, 49.4
+Vineyard, Clear, 61.85
+Arden-Arcade, Clear, 62.22
+Casa de Oro-Mount Helix, Overcast, 62.13
+Florence-Graham, Overcast, 64.68
+La Crescenta-Montrose, Overcast, 64.33
+West Whittier-Los Nietos, Overcast, 65.72
+Stockton, Clear, 57.08
+Clayton, Partly Cloudy, 52.08
+Clio, Clear, 53.12
+Concord, Clear, 44.76
+Cottonwood, Clear, 56.83
+Danville, Clear, 42.69
+Fairfield, Clear, 44.75
+Greenville, Clear, 51.61
+Holtville, Clear, 50.02
+Inverness, Partly Cloudy, 51.1
+Jackson, Clear, 53.21
+Lafayette, Partly Cloudy, 48.43
+Linden, Clear, 49.53
+Lincoln, Clear, 45.08
+Livingston, Clear, 48.6
+Piedmont, Partly Cloudy, 43.52
+Riverside, Clear, 45.01
+Springville, Clear, 42.91
+Vincent, Clear, 46.19
+Danville, Clear, 53.17
+Farmington, Clear, 48.33
+Highland, Clear, 47.9
+Lincoln, Clear, 48.09
+London, Clear, 51.7
+Mountain View, Clear, 48.56
+Newark, Clear, 49.49
+Clayton, Mostly Cloudy, 36.58
+Felton, Mostly Cloudy, 37.24
+Georgetown, Mostly Cloudy, 38.06
+Greenville, Partly Cloudy, 36.71
+Alturas, Overcast, 62.1
+Arcadia, Mostly Cloudy, 64.34
+Beverly Hills, Partly Cloudy, 61.93
+Campbell, Overcast, 59.42
+Crescent City, Mostly Cloudy, 59.74
+Edgewood, Mostly Cloudy, 58.7
+Hawthorne, Partly Cloudy, 60.83
+Hawthorne, Mostly Cloudy, 60.23
+Inverness, Mostly Cloudy, 60.78
+Laguna Beach, Clear, 58.2
+Lake Forest, Mostly Cloudy, 76.37
+Live Oak, Clear, 62.82
+Oakland, Mostly Cloudy, 58.8
+Quincy, Clear, 58.71
+Ridgecrest, Mostly Cloudy, 62.77
+Roseland, Overcast, 64.4
+Seaside, Clear, 57.95
+South Pasadena, Partly Cloudy, 63.59
+Taft, Mostly Cloudy, 58.79
+Twin Lakes, Mostly Cloudy, 75.96
+Wallace, Clear, 55.68
+Woodville, Clear, 60.34
+Alamo, Partly Cloudy, 56.24
+Auburn, Mostly Cloudy, 46.9
+Buena Vista, Partly Cloudy, 52.73
+Byron, Mostly Cloudy, 53.33
+Clayton, Mostly Cloudy, 41.76
+Commerce, Mostly Cloudy, 49.64
+Fair Oaks, Overcast, 43.27
+Fairview, Mostly Cloudy, 36.99
+Georgetown, Clear, 61.33
+Georgetown, Partly Cloudy, 53.84
+Grayson, Partly Cloudy, 46.21
+Greenville, Partly Cloudy, 48.52
+Jackson, Mostly Cloudy, 49.46
+Lakeview, Mostly Cloudy, 37.58
+Walnut Grove, Partly Cloudy, 48.12
+West Point, Partly Cloudy, 50.13
+West Point, Mostly Cloudy, 52.81
+Ashland, Mostly Cloudy, 39.43
+Auburn, Partly Cloudy, 41.04
+Cambria, Mostly Cloudy, 42.65
+Chester, Mostly Cloudy, 41.35
+Columbia, Mostly Cloudy, 42.01
+Fairfield, Mostly Cloudy, 41.23
+Georgetown, Mostly Cloudy, 39.26
+Greenfield, Mostly Cloudy, 41.04
+Highland, Mostly Cloudy, 41.41
+Winchester, Mostly Cloudy, 40.44
+Windsor, Mostly Cloudy, 39.41
+Cloverdale, Partly Cloudy, 36.54
+Danville, Partly Cloudy, 35.74
+Georgetown, Mostly Cloudy, 36.93
+Highland, Mostly Cloudy, 40.81
+Monrovia, Partly Cloudy, 36.64
+Oak Park, Overcast, 37.51
+Ashland, Clear, 46.79
+Auburn, Clear, 53.37
+Eureka, Clear, 59.1
+Independence, Clear, 53.24
+Lincoln, Clear, 55.08
+Highland, Clear, 48.1
+Marysville, Clear, 51.79
+Mission Hills, Clear, 47.22
+Pleasanton, Clear, 51.19
+Valley Center, Clear, 55.56
+Westwood, Clear, 47.08
+Albany, Overcast, 34.52
+Auburn, Mostly Cloudy, 39.58
+Columbia, Overcast, 35.9
+Dixon, Mostly Cloudy, 40.35
+Edgewood, Mostly Cloudy, 33.87
+Grayson, Overcast, 37.18
+Greenville, Mostly Cloudy, 40.06
+Hickman, Mostly Cloudy, 43.03
+Irvine, Overcast, 37.03
+Jackson, Overcast, 36.31
+Jackson, Overcast, 35.83
+Jamestown, Overcast, 35.86
+Lancaster, Overcast, 35.71
+Livermore, Mostly Cloudy, 40.67
+London, Overcast, 33.58
+Middletown, Overcast, 36.47
+Stanford, Overcast, 35.9
+Stanton, Overcast, 36.97
+Taylorsville, Overcast, 37.48
+Westwood, Overcast, 37.14
+Albany, Clear, 57.62
+Colfax, Clear, 57.26
+Columbia, Clear, 55.56
+Delhi, Clear, 53.32
+Gonzales, Clear, 57.88
+Independence, Clear, 57.32
+Jackson, Clear, 56.41
+Livingston, Clear, 57.74
+Norco, Clear, 57.79
+Oakdale, Clear, 57.88
+Patterson, Clear, 58.69
+Roseland, Clear, 57.02
+Westminster, Clear, 57.47
+Brentwood, Partly Cloudy, 39.72
+Chester, Partly Cloudy, 37.32
+Forestville, Partly Cloudy, 38.45
+Green Valley, Mostly Cloudy, 38.02
+Highland, Partly Cloudy, 37.66
+Kensington, Partly Cloudy, 38.7
+Long Beach, Mostly Cloudy, 37.97
+Middletown, Mostly Cloudy, 37.24
+Oakland, Overcast, 27.72
+Riverdale Park, Clear, 38.73
+Riverside, Partly Cloudy, 39.32
+Riverside, Partly Cloudy, 38.37
+Rossmoor, Partly Cloudy, 37.91
+Albany, Partly Cloudy, 43.68
+Anderson, Clear, 48.45
+Ashland, Partly Cloudy, 40.35
+Berkeley, Mostly Cloudy, 41.7
+Brentwood, Mostly Cloudy, 41.88
+Campbell, Mostly Cloudy, 45.06
+Dixon, Partly Cloudy, 42.44
+Eureka, Mostly Cloudy, 41.94
+Glendale, Mostly Cloudy, 41.68
+Greenfield, Clear, 46.02
+Greenville, Mostly Cloudy, 44.99
+Hollister, Clear, 47.99
+Imperial, Mostly Cloudy, 42.48
+Jackson, Mostly Cloudy, 42.86
+Lathrop, Clear, 44.31
+Lincoln, Partly Cloudy, 41.5
+Mountain View, Clear, 46.67
+Oakland, Mostly Cloudy, 41.54
+Piedmont, Partly Cloudy, 45.24
+Pleasant Hill, Clear, 46.66
+Richmond, Partly Cloudy, 42.9
+Riverside, Mostly Cloudy, 42.77
+Riverside, Clear, 47.02
+Stockton, Partly Cloudy, 44.92
+Tipton, Clear, 42.59
+Winchester, Mostly Cloudy, 41.49
+Windsor, Partly Cloudy, 42.34
+Belmont, Clear, 53.42
+Belmont, Clear, 44.51
+Columbia, Clear, 55.53
+Farmington, Mostly Cloudy, 43.85
+Glendale, Clear, 54.14
+Grenada, Partly Cloudy, 48.9
+Inverness, Clear, 51.02
+Long Beach, Clear, 56.31
+Taylorsville, Clear, 52.57
+Walnut Grove, Clear, 50.1
+West Point, Partly Cloudy, 47.02
+Woodville, Clear, 55.15
+Belmont, Overcast, 47.93
+Claremont, Overcast, 45.7
+Clyde, Overcast, 36.39
+Columbia, Overcast, 45.71
+Fairview, Overcast, 38.15
+Fairview, Overcast, 48.22
+Fremont, Overcast, 42.01
+Hillsborough, Overcast, 36.74
+Jackson, Drizzle, 37.61
+Jamestown, Drizzle, 40.63
+Long Beach, Overcast, 55.08
+Pleasant Hill, Overcast, 38.36
+Plymouth, Overcast, 45.63
+Selma, Possible Drizzle, 41.77
+Mountain View, Overcast, 46.94
+Wallace, Drizzle, 51.19
+Weaverville, Overcast, 36.16
+Weldon, Rain, 36.94
+Taylorsville, Overcast, 45.24
+Windsor, Drizzle, 43.85
+Windsor, Overcast, 44.65
+Winton, Overcast, 41.12
+Ashland, Partly Cloudy, 37.59
+Avalon, Mostly Cloudy, 38.5
+Clayton, Mostly Cloudy, 37.4
+Folsom, Mostly Cloudy, 37.48
+Glendora, Partly Cloudy, 37.75
+Stratford, Mostly Cloudy, 37.57
+Clayton, Mostly Cloudy, 32.85
+Deer Park, Mostly Cloudy, 33.81
+Etna, Overcast, 33.77
+Fairfax, Mostly Cloudy, 34.75
+Farmersville, Mostly Cloudy, 34.05
+Forestville, Mostly Cloudy, 34.11
+Georgetown, Overcast, 33.51
+Glendale, Mostly Cloudy, 35.13
+Greenfield, Overcast, 34.83
+Jackson, Mostly Cloudy, 36.76
+Jamestown, Mostly Cloudy, 33.29
+Lincoln Village, Overcast, 32.38
+London, Overcast, 33.43
+McArthur, Mostly Cloudy, 36.59
+Ross, Mostly Cloudy, 35.68
+Roseville, Mostly Cloudy, 35.54
+Winchester, Overcast, 34.36
+Commerce, Clear, 50.12
+Davis, Clear, 58.29
+Fairfax, Clear, 54.26
+Fairview, Clear, 56.81
+Lindsay, Clear, 58.74
+Oakland, Clear, 58.29
+Piedmont, Clear, 57.82
+Stratford, Clear, 56.69
+Union City, Clear, 58.84
+Folsom, Partly Cloudy, 37.82
+Georgetown, Clear, 35.08
+Upland, Partly Cloudy, 35.23
+Upland, Partly Cloudy, 37.93
+Windsor, Partly Cloudy, 36.1
+Arcadia, Mostly Cloudy, 51.73
+Belvedere, Partly Cloudy, 55.66
+Chester, Possible Drizzle, 52.12
+Fairfax, Partly Cloudy, 58.33
+Georgetown, Mostly Cloudy, 57.9
+Jackson, Partly Cloudy, 57.3
+Lakewood, Overcast, 55.79
+Lancaster, Overcast, 50.07
+Oakland, Mostly Cloudy, 53.62
+Piedmont, Mostly Cloudy, 52.38
+Westminster, Mostly Cloudy, 51.44
+Alamo, Mostly Cloudy, 44.39
+Fairview, Mostly Cloudy, 39.9
+Greenfield, Mostly Cloudy, 44.26
+Jamestown, Overcast, 30.15
+Lafayette, Overcast, 34.63
+Lafayette, Overcast, 34.2
+Lakewood, Mostly Cloudy, 40.4
+Linden, Partly Cloudy, 42.94
+Livingston, Overcast, 33.78
+Monterey, Overcast, 29.79
+Oakland, Mostly Cloudy, 44.61
+Union City, Mostly Cloudy, 43.75
+Winchester, Mostly Cloudy, 36.09
+Albany, Clear, 60.66
+Anderson, Clear, 61.03
+Beverly Hills, Clear, 60.76
+Bishop, Clear, 67.61
+Bloomington, Clear, 64.79
+Cameron Park, Partly Cloudy, 68.19
+Castroville, Clear, 68.9
+Chico, Clear, 58.66
+Clyde, Clear, 60.61
+Commerce, Clear, 56.59
+Crockett, Clear, 58.9
+Dublin, Clear, 60.67
+Edgewood, Clear, 58.69
+Fairfield, Clear, 59.07
+Fairview, Clear, 58.28
+Fairview, Clear, 59.35
+Gonzales, Clear, 65.69
+Keene, Clear, 59.32
+Lakeside, Clear, 59.75
+Las Lomas, Clear, 69.53
+Linden, Clear, 57.46
+Live Oak, Clear, 66.76
+Livingston, Clear, 58.59
+Montague, Clear, 58.31
+Newark, Clear, 59.31
+Pittsburg, Clear, 57.19
+Pleasanton, Clear, 67.91
+Richmond, Clear, 63.23
+Rollingwood, Clear, 65.98
+San Carlos, Clear, 68.19
+San Diego, Clear, 67.75
+Sanger, Clear, 58.75
+Santa Rosa, Partly Cloudy, 67.63
+Selma, Clear, 67.13
+Spring Valley, Clear, 62.24
+Sunnyvale, Clear, 59.04
+Taft, Clear, 65.45
+Three Rivers, Clear, 65.97
+Vernon, Clear, 60.7
+Winters, Clear, 62.59
+Woodville, Clear, 57.46
+Ashland, Overcast, 36.65
+Belmont, Mostly Cloudy, 38.08
+Buena Vista, Overcast, 40.61
+Cloverdale, Overcast, 41.48
+Concord, Overcast, 35.86
+Dublin, Overcast, 35.5
+Lakeside, Overcast, 36.66
+Lancaster, Light Rain, 38.49
+Middletown, Mostly Cloudy, 37.44
+Monterey, Mostly Cloudy, 29.91
+Orange, Mostly Cloudy, 38.44
