@@ -42,7 +42,9 @@ public class GameBoard extends JFrame implements ActionListener {
         }
         
         // 2. Initialize the ArrayList of Cards declared above
-        
+        for (int i = 0; i < 52; i++) {
+			cards.add(new Card(i));
+		}
         
         // 3. Create TOTAL_CARDS number of objects each with a value of 1.
         //    Also, add action listeners to each Card object and then add each
@@ -60,7 +62,7 @@ public class GameBoard extends JFrame implements ActionListener {
         
         
         // 7. Call the setupGui() method to set up the frame
-        
+       
         
         // 8. Call the startGame() method to start the game
         
