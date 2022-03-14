@@ -24,13 +24,13 @@ public class RetroSun extends PApplet {
     @Override
     public void settings() {
         // 1. Set the size of your sketch to at least 800 width, 600 height
-        
+     size(WIDTH, HEIGHT);   
     }
 
     @Override
     public void setup() {
         // 2. Set bgColor as the background color
-        
+    background(bgColor);
     }
 
     @Override
@@ -45,7 +45,9 @@ public class RetroSun extends PApplet {
 
         // Do you see a yellow sun like in the 1st image?
         // If not, fix your code before proceeding.
-
+ellipse(400, 200, 300, 300);
+fill(sunColors[0]);
+noStroke();
         
         /*
          * PART 2: Drawing a color gradient on the sun
@@ -56,10 +58,19 @@ public class RetroSun extends PApplet {
         // Call the loadPixels() method to put all the pixel colors into
         // the pixels[] array
         // https://processing.org/reference/loadPixels_.html
+loadPixels();
 
         // We want to change the color of our sun so use an if statement
         // to check if the pixel is the color of the yellow circle.
 
+for (int i = 0; i < pixels.length; i++) {
+	if (pixels[i] == sunColors[0]) {
+	pixels[i] = sunColors[i + 1];
+	int y = i / width;
+    float step = map(y, sunTopY, sunBottomY, 0, 1);
+	
+    Color newcolor = interpolateColor(sunColors, step);
+}}
         // If pixel[i] is the same color as the color of our circle (sunColors[0]),
         // we need to map the pixel to a color in our sunColors[] array
         // (see 2nd gradient image in RetroSun.html)
@@ -75,7 +86,6 @@ public class RetroSun extends PApplet {
 
         // Call interpolateColor(sunColors, step) and save the color
         // variable that's returned
-
         // Set pixels[i] to the returned color
 
         // Call updatePixels() after your loop through all the pixels to
