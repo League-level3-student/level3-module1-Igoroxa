@@ -1,5 +1,8 @@
 package _06_Intro_To_Hash_Maps;
 
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
 
 public class _02_LogSearch {
     /*
@@ -34,4 +37,22 @@ public class _02_LogSearch {
      *      user that the ID is not in the list.
      */
 
+
+	public static void main(String[] args) {
+		
+		JFrame frame = new JFrame();
+		JPanel panel = new JPanel();
+		JButton button1 = new JButton("Add Entry");
+		JButton button2 = new JButton("Search by ID");
+		JButton button3 = new JButton("View List");
+		
+		frame.add(panel);
+		panel.add(button1);
+		panel.add(button2);
+		panel.add(button3);
+		button1.addActionListener(this);
+		button2.addActionListener(this);
+		button3.addActionListener(this);
+ 
+}
 }

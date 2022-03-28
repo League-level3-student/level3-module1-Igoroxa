@@ -1,5 +1,9 @@
 package _05_Retro_Sun;
 
+import java.util.ArrayList;
+
+import org.w3c.dom.css.Rect;
+
 import processing.core.PApplet;
 
 /*
@@ -11,6 +15,7 @@ import processing.core.PApplet;
 public class RetroSun extends PApplet {
 	static final int WIDTH = 800;
 	static final int HEIGHT = 600;
+	ArrayList<Rectangle> rectangles;
 
 	// RGB colors
 	int[] sunColors = { color(212, 202, 11), color(214, 198, 30), color(211, 170, 26), color(216, 157, 51),
@@ -18,8 +23,10 @@ public class RetroSun extends PApplet {
 			color(217, 0, 151) };
 
 	int bgColor = color(31, 0, 48);
-	int y = 500/2;
-	int h = 10;
+	float y = 500/2;
+	float h = 10;
+	float x = 250;
+	float w = 2 * 150;
 
 	@Override
 	public void settings() {
@@ -31,8 +38,13 @@ public class RetroSun extends PApplet {
 	public void setup() {
 		// 2. Set bgColor as the background color
 		background(bgColor);
-		y = 500/2;
-		h = 100;
+	
+		rectangles = new ArrayList<Rectangle>();
+		for (int i = 0; i < 10; i++) {
+			y = i*25 + 200;
+			Rectangle R = new Rectangle(x, y, w, h);
+			rectangles.add(R);
+		}
 	}
 	@Override
 	public void draw() {
@@ -103,13 +115,24 @@ public class RetroSun extends PApplet {
 
 		// Set the fill color to the background color
 	
+	
+			for (int i = 0; i < rectangles.size(); i++) {
+				
 			fill(bgColor);
-			int x = 250;
-			int w = 2 * 150;
-			rect(x, y, w, h);
-			y--;
-			h--;
+			rectangles.get(i).y--;
+			rectangles.get(i).h-= 0.1;
+			rectangles.get(i).draw();
+			
+			if(rectangles.get(i).y < 200) {
+				rectangles.get(i).y = 400;
+				rectangles.get(i).h = 20;
+			}
+			
+			}
 		
+
+			
+	
 		// To draw each rectangle we need to find its x, y, width, height
 		// *The y position can be any value within the sun:
 		// float y = width / 2;
@@ -170,7 +193,7 @@ public class RetroSun extends PApplet {
 		 */
 	}
 
-	private void rectangle(int i, int j, int k, int l) {
+	private void rectangle(int i, float y2, float h2, int l) {
 		// TODO Auto-generated method stub
 
 	}
@@ -209,6 +232,9 @@ public class RetroSun extends PApplet {
 			this.y = y;
 			this.w = w;
 			this.h = h;
+		}
+		void draw() {
+			rect(x, y, w, h);
 		}
 	}
 }
