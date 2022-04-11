@@ -1,6 +1,14 @@
 package _08_California_Weather;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.util.HashMap;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
 
 /*
  * OBJECTIVE:
@@ -27,11 +35,27 @@ import java.util.HashMap;
  * temperature, you can get a free API key at: https://openweathermap.org/api
  */
 
-public class CaliforniaWeather {
-    
+public class CaliforniaWeather implements ActionListener {
+	public JFrame frame = new JFrame();
+	public JPanel panel = new JPanel();
+	public JButton button1 = new JButton("Search By Name");
+	public JButton button2 = new JButton("Search By Condition");
+	public JButton button3 = new JButton("Search By Tempearture");
+	HashMap<String, WeatherData> weatherData = Utilities.getWeatherData();
+	
     void start() {
-        HashMap<String, WeatherData> weatherData = Utilities.getWeatherData();
         
+    	frame.add(panel);
+    	panel.add(button1);
+    	panel.add(button2);
+    	panel.add(button3);
+    	frame.setVisible(true);
+    	frame.pack();
+    	button1.addActionListener(this);
+    	button2.addActionListener(this);
+    	button3.addActionListener(this);
+        
+      
         // All city keys have the first letter capitalized of each word
         String cityName = Utilities.capitalizeWords( "National City" );
         WeatherData datum = weatherData.get(cityName);
@@ -42,4 +66,32 @@ public class CaliforniaWeather {
             System.out.println(cityName + " is " + datum.weatherSummary + " with a temperature of " + datum.temperatureF + " F");
         }
     }
+
+
+
+
+ 
+
+
+@Override
+public void actionPerformed(ActionEvent e) {
+	// TODO Auto-generated method stub
+	if (e.getSource() == button1) {
+		String enteredname = JOptionPane.showInputDialog("City Name: ");
+		JLabel information = new JLabel();
+		if (weatherData.containsKey(enteredname)) {
+		   information.setText ("The Weather for " + enteredname + " is " + weatherData.get(enteredname).temperatureF);
+		   panel.add(information);
+		   frame.pack();
+		}
+	}
+	if (e.getSource() == button2) {
+		String enteredcondition = JOptionPane.showInputDialog("Entered Condition: ");
+		JLabel citis = new JLabel();
+		if (weatherData.containsValue(enteredcondition)) {
+			citis.setText("The cities with " + enteredcondition + " are " + weatherData.get(enteredcondition).weather);
+		}
+	}
 }
+}
+
