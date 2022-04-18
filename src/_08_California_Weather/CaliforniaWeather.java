@@ -2,6 +2,7 @@ package _08_California_Weather;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 import javax.swing.JButton;
@@ -42,39 +43,34 @@ public class CaliforniaWeather implements ActionListener {
 	public JButton button2 = new JButton("Search By Condition");
 	public JButton button3 = new JButton("Search By Tempearture");
 	HashMap<String, WeatherData> weatherData = Utilities.getWeatherData();
-	
-    void start() {
-        
-    	frame.add(panel);
-    	panel.add(button1);
-    	panel.add(button2);
-    	panel.add(button3);
-    	frame.setVisible(true);
-    	frame.pack();
-    	button1.addActionListener(this);
-    	button2.addActionListener(this);
-    	button3.addActionListener(this);
-        
-      
-        // All city keys have the first letter capitalized of each word
-        String cityName = Utilities.capitalizeWords( "National City" );
-        WeatherData datum = weatherData.get(cityName);
-        
-        if( datum == null ) {
-            System.out.println("Unable to find weather data for: " + cityName);
-        } else {
-            System.out.println(cityName + " is " + datum.weatherSummary + " with a temperature of " + datum.temperatureF + " F");
-        }
-    }
+	public String cityName = Utilities.capitalizeWords("National City");
+	public WeatherData datum = weatherData.get(cityName);
 
+	void start() {
 
+		frame.add(panel);
+		panel.add(button1);
+		panel.add(button2);
+		panel.add(button3);
+		frame.setVisible(true);
+		frame.pack();
+		button1.addActionListener(this);
+		button2.addActionListener(this);
+		button3.addActionListener(this);
 
+		// All city keys have the first letter capitalized of each word
 
- 
-
+		if (datum == null) {
+			System.out.println("Unable to find weather data for: " + cityName);
+		} else {
+			System.out.println(
+					cityName + " is " + datum.weatherSummary + " with a temperature of " + datum.temperatureF + " F");
+		}
+	}
 
 @Override
 public void actionPerformed(ActionEvent e) {
+	System.out.println("work");
 	// TODO Auto-generated method stub
 	if (e.getSource() == button1) {
 		String enteredname = JOptionPane.showInputDialog("City Name: ");
@@ -87,11 +83,27 @@ public void actionPerformed(ActionEvent e) {
 	}
 	if (e.getSource() == button2) {
 		String enteredcondition = JOptionPane.showInputDialog("Entered Condition: ");
-		JLabel citis = new JLabel();
-		if (weatherData.containsValue(enteredcondition)) {
-			citis.setText("The cities with " + enteredcondition + " are " + weatherData.get(enteredcondition).weather);
+		ArrayList<String> cities = new ArrayList<String>();
+		for (String NewCity : weatherData.keySet()) {
+			if(weatherData.get(NewCity).weatherSummary.equals(enteredcondition)) {
+				cities.add(NewCity);
+			}
 		}
+		System.out.println(cities);
+	
 	}
+	if (e.getSource() == button3) {
+		String mint = JOptionPane.showInputDialog("Minimum Temp :");
+		String maxt = JOptionPane.showInputDialog("Maximum Temp :");
+		int mintint = Integer.parseInt(mint);
+		int maxtint = Integer.parseInt(maxt);
+		
+		ArrayList<String> correctcities = new ArrayList<String>();
+		for (String WarmCity : weatherData.keySet()) {
+			if (weatherData.get(WarmCity).temperatureF > mintint && weatherData.get(WarmCity).temperatureF < maxtint) {
+				correctcities.add(WarmCity);
+			}
+		}
+		System.out.println(correctcities);
 }
-}
-
+}}
